@@ -26,8 +26,22 @@ $ npm run dev
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
-- [Vite][https://vitejs.dev/blog/announcing-vite2.html] - Criar o projeto da melhor forma
-- [Tailwind CSS][https://tailwindcss.com/docs/installation] - Uma experiência incrivel com CSS [Essa coisa faz milagre]
-- [Phosphor][https://phosphoricons.com/] - Icones
-- [Headlessui][https://headlessui.dev/] - Trabalhar a acessibilidade
+- [Vite][Vite] - Criar o projeto da melhor forma
+- [Tailwind CSS][TailwindCSS] - Uma experiência incrivel com CSS [Essa coisa faz milagre]
+- [Phosphor][Phosphor] - Icones
+- [Headlessui][Headlessui] - Trabalhar a acessibilidade
 
+
+🚧 Em construção... 🚧
+
+## 😯 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+[Vite]: https://vitejs.dev/blog/announcing-vite2.html
+[TailwindCSS]: https://tailwindcss.com/docs/installation
+[Phosphor]: https://phosphoricons.com/
+[Headlessui]: https://headlessui.dev/
